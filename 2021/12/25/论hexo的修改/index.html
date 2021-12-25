@@ -14,7 +14,7 @@
 <meta property="og:description" content="RT">
 <meta property="og:locale" content="zh_CN">
 <meta property="article:published_time" content="2021-12-25T14:26:13.287Z">
-<meta property="article:modified_time" content="2021-12-15T16:37:02.000Z">
+<meta property="article:modified_time" content="2021-12-25T15:00:40.340Z">
 <meta property="article:author" content="taoyifan">
 <meta name="twitter:card" content="summary">
   
@@ -217,10 +217,18 @@
 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">设置——不公开我的邮箱地址（取消勾选）——提交邮箱设置（选择自己的邮箱）</span><br><span class="line">//将邮箱设置为非私有即可</span><br></pre></td></tr></table></figure>
 
 
+
+<h1 id="上传hexo到coding"><a href="#上传hexo到coding" class="headerlink" title="上传hexo到coding"></a>上传hexo到coding</h1><h4 id="出现报错："><a href="#出现报错：" class="headerlink" title="出现报错："></a><strong>出现报错：</strong></h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Permission Denied (publickey)</span><br></pre></td></tr></table></figure>
+
+<h4 id="解决方法："><a href="#解决方法：" class="headerlink" title="解决方法："></a>解决方法：</h4><p>修改 <code>C:\Program Files\Git\etc\ssh\ssh_config</code> 文件，在最后添加：</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">Host *.coding.net</span><br><span class="line">        HostkeyAlgorithms +ssh-rsa</span><br><span class="line">        PubkeyAcceptedAlgorithms +ssh-rsa</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+<p>而后测试 <code>ssh -T git@e.coding.net</code>即可。</p>
+
       
     </div>
     <footer class="article-footer">
-      <a data-url="https://taoyifan.cn/2021/12/25/%E8%AE%BAhexo%E7%9A%84%E4%BF%AE%E6%94%B9/" data-id="ckxlxz1qn000hlkuaavc62163" data-title="论hexo的修改" class="article-share-link">分享</a>
+      <a data-url="https://taoyifan.cn/2021/12/25/%E8%AE%BAhexo%E7%9A%84%E4%BF%AE%E6%94%B9/" data-id="ckxly7mt4000888ua2q5kcmpo" data-title="论hexo的修改" class="article-share-link">分享</a>
       
       
       
