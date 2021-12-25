@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  
+  
+  <title>论hexo的修改 | taoyifan</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="RT">
+<meta property="og:type" content="article">
+<meta property="og:title" content="论hexo的修改">
+<meta property="og:url" content="https://taoyifan.cn/2021/12/25/%E8%AE%BAhexo%E7%9A%84%E4%BF%AE%E6%94%B9/index.html">
+<meta property="og:site_name" content="taoyifan">
+<meta property="og:description" content="RT">
+<meta property="og:locale" content="zh_CN">
+<meta property="article:published_time" content="2021-12-25T14:26:13.287Z">
+<meta property="article:modified_time" content="2021-12-15T16:37:02.000Z">
+<meta property="article:author" content="taoyifan">
+<meta name="twitter:card" content="summary">
+  
+    <link rel="alternate" href="/atom.xml" title="taoyifan" type="application/atom+xml">
+  
+  
+    <link rel="shortcut icon" href="/favicon.png">
+  
+  
+    
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/typeface-source-code-pro@0.0.71/index.min.css">
+
+  
+  
+<link rel="stylesheet" href="/css/style.css">
+
+  
+    
+<link rel="stylesheet" href="/fancybox/jquery.fancybox.min.css">
+
+  
+<meta name="generator" content="Hexo 5.4.0"></head>
+
+<body>
+  <div id="container">
+    <div id="wrap">
+      <header id="header">
+  <div id="banner"></div>
+  <div id="header-outer" class="outer">
+    <div id="header-title" class="inner">
+      <h1 id="logo-wrap">
+        <a href="/" id="logo">taoyifan</a>
+      </h1>
+      
+    </div>
+    <div id="header-inner" class="inner">
+      <nav id="main-nav">
+        <a id="main-nav-toggle" class="nav-icon"></a>
+        
+          <a class="main-nav-link" href="/">Home</a>
+        
+          <a class="main-nav-link" href="/archives">Archives</a>
+        
+      </nav>
+      <nav id="sub-nav">
+        
+          <a id="nav-rss-link" class="nav-icon" href="/atom.xml" title="RSS 订阅"></a>
+        
+        <a id="nav-search-btn" class="nav-icon" title="搜索"></a>
+      </nav>
+      <div id="search-form-wrap">
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="搜索"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://taoyifan.cn"></form>
+      </div>
+    </div>
+  </div>
+</header>
+
+      <div class="outer">
+        <section id="main"><article id="post-论hexo的修改" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+  <div class="article-meta">
+    <a href="/2021/12/25/%E8%AE%BAhexo%E7%9A%84%E4%BF%AE%E6%94%B9/" class="article-date">
+  <time class="dt-published" datetime="2021-12-25T14:26:13.287Z" itemprop="datePublished">2021-12-25</time>
+</a>
+    
+  <div class="article-category">
+    <a class="article-category-link" href="/categories/%E4%B8%83%E5%85%AB/">七八</a>
+  </div>
+
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 class="p-name article-title" itemprop="headline name">
+      论hexo的修改
+    </h1>
+  
+
+      </header>
+    
+    <div class="e-content article-entry" itemprop="articleBody">
+      
+        <p>RT</p>
+<span id="more"></span>
+
+<h1 id="hexo首页文章只显示摘要"><a href="#hexo首页文章只显示摘要" class="headerlink" title="hexo首页文章只显示摘要"></a>hexo首页文章只显示摘要</h1><h3 id="前情提要"><a href="#前情提要" class="headerlink" title="前情提要"></a>前情提要</h3><p>hexo首页文章默认显示全文</p>
+<p>因不爽</p>
+<p>改之</p>
+<h3 id="两种方法显示摘要"><a href="#两种方法显示摘要" class="headerlink" title="两种方法显示摘要"></a>两种方法显示摘要</h3><h5 id="方法一：写概述"><a href="#方法一：写概述" class="headerlink" title="方法一：写概述"></a>方法一：写概述</h5><p>在文章的<code>front-matter</code>中添加<code>description</code>，其中description中的内容就会被显示在首页上，其余一律不显示。</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">---</span><br><span class="line">title: 让首页显示部分内容</span><br><span class="line">date: 2020-02-23 22:55:10</span><br><span class="line">description: 这是显示在首页的概述，正文内容均会被隐藏。</span><br><span class="line">---</span><br></pre></td></tr></table></figure>
+
+<p>比较不方便的是还得写一下概述，很多时候会懒得写概述，于是就需要第二种方法了。</p>
+<h5 id="方法二：文章截断"><a href="#方法二：文章截断" class="headerlink" title="方法二：文章截断"></a>方法二：文章截断</h5><p>在需要截断的地方加入：</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;!--more--&gt;</span><br></pre></td></tr></table></figure>
+
+<p>首页就会显示这条以上的所有内容，隐藏接下来的所有内容。</p>
+<h3 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h3><p>来源：<a target="_blank" rel="noopener" href="https://yueyue200830.github.io/2020/02/23/%E8%AE%BE%E7%BD%AEhexo%E9%A6%96%E9%A1%B5%E5%8F%AA%E6%98%BE%E7%A4%BA%E9%83%A8%E5%88%86%E6%91%98%E8%A6%81%EF%BC%88%E4%B8%8D%E6%98%BE%E7%A4%BA%E5%85%A8%E6%96%87%EF%BC%89/">https://yueyue200830.github.io/2020/02/23/%E8%AE%BE%E7%BD%AEhexo%E9%A6%96%E9%A1%B5%E5%8F%AA%E6%98%BE%E7%A4%BA%E9%83%A8%E5%88%86%E6%91%98%E8%A6%81%EF%BC%88%E4%B8%8D%E6%98%BE%E7%A4%BA%E5%85%A8%E6%96%87%EF%BC%89/</a></p>
+<h1 id="hexo修改站点标题等"><a href="#hexo修改站点标题等" class="headerlink" title="hexo修改站点标题等"></a>hexo修改站点标题等</h1><p>在文件<code>_config.yml</code>中找到<code>#site_</code></p>
+<table>
+<thead>
+<tr>
+<th align="left">参数</th>
+<th align="center">描述</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><code>title</code></td>
+<td align="center">网站标题</td>
+</tr>
+<tr>
+<td align="left"><code>subtitle</code></td>
+<td align="center">网站副标题</td>
+</tr>
+<tr>
+<td align="left"><code>description</code></td>
+<td align="center">网站描述</td>
+</tr>
+<tr>
+<td align="left"><code>author</code></td>
+<td align="center">您的名字</td>
+</tr>
+<tr>
+<td align="left"><code>language</code></td>
+<td align="center">网站使用的语言</td>
+</tr>
+<tr>
+<td align="left"><code>timezone</code></td>
+<td align="center">网站时区。Hexo 默认使用您电脑的时区。<a target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/List_of_tz_database_time_zones">时区列表</a>。比如说：<code>America/New_York</code>, <code>Japan</code>, 和 <code>UTC</code> 。</td>
+</tr>
+</tbody></table>
+<h1 id="hexo增加分类"><a href="#hexo增加分类" class="headerlink" title="hexo增加分类"></a>hexo增加分类</h1><h3 id="生成“分类”选项"><a href="#生成“分类”选项" class="headerlink" title="生成“分类”选项"></a>生成“分类”选项</h3><p>在博客目录打开git，在git中输入:<code>hexo new page categories</code></p>
+<p>//生成“分类”页并添加tpye属性</p>
+<p>接下来会有一个目录，找到该目录。</p>
+<p>categories文件夹下会有个index.md文件。</p>
+<p>添加<code>type: &quot;categories&quot;</code></p>
+<p>//注意有空格</p>
+<p>最后文件大致如下：</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">title: categories</span><br><span class="line">date: 2021-09-18 20:53:10</span><br><span class="line">type: &quot;categories&quot;</span><br></pre></td></tr></table></figure>
+
+<p>保存并退出。</p>
+<h3 id="文章中添加“分类”"><a href="#文章中添加“分类”" class="headerlink" title="文章中添加“分类”"></a>文章中添加“分类”</h3><p>找到要添加分类的文章。</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">title: 论hexo的修改</span><br><span class="line">categories: 七八</span><br></pre></td></tr></table></figure>
+
+<p>输入:<code>categories: 分类名</code></p>
+<p>//注意，仅限一个分类名。</p>
+<h1 id="hexo部署github会重置自定义域名"><a href="#hexo部署github会重置自定义域名" class="headerlink" title="hexo部署github会重置自定义域名"></a>hexo部署github会重置自定义域名</h1><p>//md怪不得，部署后就访问不了</p>
+<p>//看了看自定义域名，果然它的锅</p>
+<p>干。</p>
+<p>解决方法：</p>
+<p>在<code>source</code>中新建一个文件<code>CNAME</code></p>
+<p>//注意，无后缀</p>
+<p>在里面添加自己的域名即可。</p>
+<p>如我的是：</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">taoyifan.cn</span><br><span class="line">www.taoyifan.cn</span><br></pre></td></tr></table></figure>
+
+
+
+<h1 id="hexo上传图片"><a href="#hexo上传图片" class="headerlink" title="hexo上传图片"></a>hexo上传图片</h1><h3 id="修改-config-yml文件"><a href="#修改-config-yml文件" class="headerlink" title="修改_config.yml文件"></a>修改<code>_config.yml</code>文件</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">post_asset_folder: true </span><br><span class="line">/*</span><br><span class="line">默认为false，改为true</span><br><span class="line">执行命令 $ hexo new post_name，在 source/_posts 中会生成文章 post_name.md 和同名文件夹 post_name。将图片资源放在 post_name 中，文章就可以使用相对路径引用图片资源了</span><br><span class="line">*/</span><br></pre></td></tr></table></figure>
+
+<h3 id="修改typora"><a href="#修改typora" class="headerlink" title="修改typora"></a>修改typora</h3><p>//typora是markdown文本编辑器，不用可跳过</p>
+<p><code>文件→偏好设置→图像</code></p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">第一个选择：复制到指定路径</span><br><span class="line">第二个：默认</span><br><span class="line"></span><br><span class="line">下方五个选项，打勾前三个。</span><br><span class="line">即：</span><br><span class="line">对本地位置的图片应用上述规则</span><br><span class="line">对网络位置的图片应用上述规则</span><br><span class="line">优秀使用相对路径</span><br></pre></td></tr></table></figure>
+
+<h3 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h3><p>若使用typora，直接将图片拖到typora里即可（typora一定要经过上面配置才可），然后记得删除文件名。</p>
+<p>若不使用，直接将图片放到同名文件夹中即可。</p>
+<p>如：</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">![xiang](论hexo的修改/xiang.jpg)</span><br></pre></td></tr></table></figure>
+
+<p>直接将图片拖进来会显示这个，此时文章会显示图片</p>
+<p>但在hexo中是不会显示图片的。</p>
+<p>需要删除<code>论hexo的修改/</code></p>
+<p>即：</p>
+<p>如果要在hexo中插入图片</p>
+<p>假设图片名为test</p>
+<p>则写入：</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">![](test.jpg)</span><br></pre></td></tr></table></figure>
+
+<p>-</p>
+<p><strong>只保留图片名</strong></p>
+<p>know？</p>
+<h1 id="修改底部信息"><a href="#修改底部信息" class="headerlink" title="修改底部信息"></a>修改底部信息</h1><p>在主题的<code>footer.ejs</code>中修改</p>
+<p>//找不到？直接搜索，也就主题里有了。</p>
+<h1 id="一台电脑多个hexo博客搭建过程"><a href="#一台电脑多个hexo博客搭建过程" class="headerlink" title="一台电脑多个hexo博客搭建过程"></a>一台电脑多个hexo博客搭建过程</h1><p>主要参照来源:<a target="_blank" rel="noopener" href="https://blog.csdn.net/qq_36759224/article/details/86546729">https://blog.csdn.net/qq_36759224/article/details/86546729</a></p>
+<p>下面为遇到的问题</p>
+<p>1.windows下./ssh目录</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">如我的电脑用户名为singlor</span><br><span class="line">.ssh目录就在：C:\Users\singlor\.ssh</span><br><span class="line">而不是，c:\users\administrator</span><br></pre></td></tr></table></figure>
+
+<p>2.清除本地SSH缓存，执行 ssh -add 出现报错”Could not open a connection to your authentication agent.”</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">执行如下命令　ssh-agent bash</span><br></pre></td></tr></table></figure>
+
+<p>3.主题下载失败，链接超时，显示”Failed to connect to github.com port 443 after 21078 ms: Timed out”</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">很玄学，多试几次就能下载成功。</span><br></pre></td></tr></table></figure>
+
+
+
+<h1 id="上传hexo到gitee"><a href="#上传hexo到gitee" class="headerlink" title="上传hexo到gitee"></a>上传hexo到gitee</h1><p>上传时出现报错”remote: error: GE007: Your push would publish a private email address.”</p>
+<p>解决方法：</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">设置——不公开我的邮箱地址（取消勾选）——提交邮箱设置（选择自己的邮箱）</span><br><span class="line">//将邮箱设置为非私有即可</span><br></pre></td></tr></table></figure>
+
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="https://taoyifan.cn/2021/12/25/%E8%AE%BAhexo%E7%9A%84%E4%BF%AE%E6%94%B9/" data-id="ckxlxfl5d000dsoua9xg1eost" data-title="论hexo的修改" class="article-share-link">分享</a>
+      
+      
+      
+    </footer>
+  </div>
+  
+    
+<nav id="article-nav">
+  
+  
+    <a href="/2021/12/25/%E7%94%9F%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2/" id="article-nav-older" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">后一篇</strong>
+      <div class="article-nav-title">生下一个博客</div>
+    </a>
+  
+</nav>
+
+  
+</article>
+
+
+</section>
+        
+          <aside id="sidebar">
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">分类</h3>
+    <div class="widget">
+      <ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/%E4%B8%83%E5%85%AB/">七八</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/">碎碎念</a></li></ul>
+    </div>
+  </div>
+
+
+  
+    
+
+  
+    
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">归档</h3>
+    <div class="widget">
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2021/12/">十二月 2021</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2021/11/">十一月 2021</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2021/10/">十月 2021</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2021/09/">九月 2021</a></li></ul>
+    </div>
+  </div>
+
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">最新文章</h3>
+    <div class="widget">
+      <ul>
+        
+          <li>
+            <a href="/2021/12/25/%E8%AE%BAhexo%E7%9A%84%E4%BF%AE%E6%94%B9/">论hexo的修改</a>
+          </li>
+        
+          <li>
+            <a href="/2021/12/25/%E7%94%9F%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2/">生下一个博客</a>
+          </li>
+        
+          <li>
+            <a href="/2021/12/25/%E5%85%AE%E9%A2%9C%E7%BA%A2%E5%B0%98%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%BF%AE%E6%94%B9%E8%AE%B0%E5%BD%95/">兮颜红尘服务器修改记录</a>
+          </li>
+        
+          <li>
+            <a href="/2021/12/25/OI_CSP_S_%E5%88%9D%E8%B5%9B/">OI_CSP_S_初赛</a>
+          </li>
+        
+          <li>
+            <a href="/2021/12/25/hello-world/">Hello World</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+
+  
+</aside>
+        
+      </div>
+      <footer id="footer">
+  
+  <div class="outer">
+    <div id="footer-info" class="inner">
+      
+      &copy; 2021 taoyifan<br>
+      Powered by <a href="https://hexo.io/" target="_blank">Hexo</a>
+    </div>
+  </div>
+</footer>
+
+    </div>
+    <nav id="mobile-nav">
+  
+    <a href="/" class="mobile-nav-link">Home</a>
+  
+    <a href="/archives" class="mobile-nav-link">Archives</a>
+  
+</nav>
+    
+
+
+<script src="/js/jquery-3.4.1.min.js"></script>
+
+
+
+  
+<script src="/fancybox/jquery.fancybox.min.js"></script>
+
+
+
+
+<script src="/js/script.js"></script>
+
+
+
+
+
+  </div>
+</body>
+</html>
