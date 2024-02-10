@@ -1,0 +1,35 @@
+[[entries]]
+title = "me"
+
+  [[entries.entries]]
+  	title = "贫士辛落"
+
+  [[entries.entries]]
+	title = "Email"
+	url = "mailto:i@taoyifan.cn"
+
+
+  [[entries.entries]]
+	title = "rss"
+	url = "index.xml"
+
+
+
+[[entries]]
+title = "all posts"
+
+
+    [[entries.entries]]
+    title = "posts by tags"
+    url = "tags/"
+
+
+    [[entries.entries]]
+    title = "posts by categories"
+    url = "categories/"
+
+  [entries.post_list]
+  limit = 5
+  show_more = true
+  show_more_text = "See archive..."
+  show_more_url = "posts"

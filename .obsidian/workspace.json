@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "497a3e066705b587",
+    "type": "split",
+    "children": [
+      {
+        "id": "0013e9c1fdc48ee1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71e5ba602de944d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/2024m2d10h22m2s43.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bc7f3f1675adc970",
+    "type": "split",
+    "children": [
+      {
+        "id": "16b833b1f3373279",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53f6b26ba54d9f16",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "671a0281757c1ab5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f9b5620c3643c5cc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8192ffb553f4141d",
+    "type": "split",
+    "children": [
+      {
+        "id": "527bd3966381050c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fb94d53627b2b44",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/posts/2024m2d10h22m2s43.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "225a8a60ce10fa84",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/posts/2024m2d10h22m2s43.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e57011067f93663d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bc6e5c66c0691217",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/posts/2024m2d10h22m2s43.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "71e5ba602de944d5",
+  "lastOpenFiles": [
+    "content/posts/0.md",
+    "content/posts/2024m2d10h22m2s43.md",
+    "content/posts/2023m12d7h6m19s57.md",
+    "content/posts/2023m12d7h6m16s53.md",
+    "content/posts/2023m12d7h6m19s2.md",
+    "themes/nostyleplease/content/posts/2020-07-08-very-very-very-long-title-and-very-very-very-short-content.md",
+    "themes/nostyleplease/content/posts/2020-07-08-language-tests.md",
+    "archetypes/default.md",
+    "themes/nostyleplease/content/posts/test-tex.md",
+    "themes/nostyleplease/images/screenshot.png",
+    "themes/nostyleplease/content/_index.md",
+    "themes/nostyleplease/content/posts/2020-07-06-strange-post.md",
+    "obs_scripts/NewBlog.js",
+    "obs_scripts",
+    "obs_sctipts/NewBlog.js",
+    "obs_sctipts",
+    "obs_scripts/newblog.js"
+  ]
+}

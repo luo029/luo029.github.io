@@ -1,0 +1,4 @@
+baseURL = 'https://taoyifan.cn/'
+languageCode = 'zh-cn'
+title = '☵'
+theme = 'nostyleplease'
