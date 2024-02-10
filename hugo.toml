@@ -2,3 +2,7 @@ baseURL = 'https://taoyifan.cn/'
 languageCode = 'zh-cn'
 title = '☵'
 theme = 'nostyleplease'
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      hardWraps = true

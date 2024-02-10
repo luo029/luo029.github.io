@@ -1,1 +1,15 @@
-{}
+{
+  "strictLineBreaks": true,
+  "showLineNumber": true,
+  "readableLineLength": false,
+  "trashOption": "none",
+  "spellcheck": true,
+  "autoPairBrackets": true,
+  "autoPairMarkdown": true,
+  "smartIndentList": true,
+  "foldIndent": true,
+  "foldHeading": true,
+  "showIndentGuide": true,
+  "autoConvertHtml": true,
+  "useTab": true
+}

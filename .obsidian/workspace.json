@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2024m2d10h22m2s43.md",
+                "file": "content/posts/hugo折腾记.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "har",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2024m2d10h22m2s43.md",
+                "file": "content/posts/hugo折腾记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/2024m2d10h22m2s43.md",
+                "file": "content/posts/hugo折腾记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/2024m2d10h22m2s43.md"
+                "file": "content/posts/hugo折腾记.md"
               }
             }
           }
@@ -146,12 +146,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "53f6b26ba54d9f16",
+  "active": "71e5ba602de944d5",
   "lastOpenFiles": [
+    "content/posts/日记/2024m2d10h22m2s43.md",
+    "content/posts/hugo折腾记.md",
+    "content/posts/2024m2d10h22m28s4.md",
+    "hugo.toml~",
+    "content/posts/未123.md",
+    "content/posts/日记",
     "themes/nostyleplease/data/menu.toml~",
     "content/posts/日记",
-    "content/posts/未命名.md",
-    "content/posts/2024m2d10h22m2s43.md",
     "content/posts/0.md",
     "content/posts/2023m12d7h6m19s57.md",
     "content/posts/2023m12d7h6m16s53.md",
