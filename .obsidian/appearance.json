@@ -1,4 +1,7 @@
 {
   "accentColor": "",
-  "baseFontSize": 29
+  "baseFontSize": 29,
+  "textFontFamily": "LXGW WenKai GB Screen",
+  "monospaceFontFamily": "LXGW WenKai GB Screen",
+  "interfaceFontFamily": "LXGW WenKai GB Screen"
 }
