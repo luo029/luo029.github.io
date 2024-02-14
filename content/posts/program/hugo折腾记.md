@@ -30,6 +30,7 @@ Hello World
 ### 解决  
 hugo的硬换行默认关闭。
 https://gohugo.io/getting-started/configuration-markup/#configure-markup
+
 在`hugo.toml`中添加
 ```powershell
 [markup]
@@ -42,6 +43,7 @@ https://gohugo.io/getting-started/configuration-markup/#configure-markup
 ## 1. 评论
 	时间：2024.2.14
 主题是nostyleplease，所用评论系统是[giscus](https://github.com/giscus/giscus).
+
 具体操作：
 ```powershell
 将 giscus 提供的<script>标签内容做对应配置后插入到 layouts/posts/single.html 的</article> 这一行后面
