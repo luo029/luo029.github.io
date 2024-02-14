@@ -2,7 +2,7 @@
 title: time
 date: 2024-02-14T19:35:28+08:00
 tags: 
-categories: 
+categories: obsidian://open?vault=articles&file=notes%2Ftime
 draft: false
 ---
 ## 今朝

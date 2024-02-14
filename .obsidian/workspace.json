@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/notes/time.md",
+                "file": "content/posts/diary/2024m2d14h22m38s3.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8192ffb553f4141d",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/notes/time.md",
+                "file": "content/posts/diary/2024m2d14h22m38s3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/notes/time.md",
+                "file": "content/posts/diary/2024m2d14h22m38s3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/notes/time.md"
+                "file": "content/posts/diary/2024m2d14h22m38s3.md"
               }
             }
           }
@@ -149,15 +148,15 @@
   },
   "active": "71e5ba602de944d5",
   "lastOpenFiles": [
+    "content/posts/diary/2024m2d13h22m52s55.md",
+    "content/posts/diary/2024m2d14h22m38s3.md",
+    "content/posts/notes/time.md",
     "themes/nostyleplease/data/menu.toml~",
-    "content/posts/notes/time.md",
-    "content/posts/notes/time.md",
     "未命名.md",
     "content/posts/diary/2024m2d10h22m2s43.md",
     "content/posts/program/hugo折腾记.md",
     "content/posts/notes",
     "content/posts/program",
-    "content/posts/diary/2024m2d13h22m52s55.md",
     "content/posts/diary/2024m2d12h22m16s18.md",
     "content/posts/diary/2024m2d11h22m41s5.md",
     "archetypes/default.md",
