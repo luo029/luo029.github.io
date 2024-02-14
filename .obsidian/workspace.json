@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/日记/2024m2d13h22m52s55.md",
-                "mode": "preview",
-                "source": true
+                "file": "content/posts/hugo折腾记.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/日记/2024m2d13h22m52s55.md",
+                "file": "content/posts/hugo折腾记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/日记/2024m2d13h22m52s55.md",
+                "file": "content/posts/hugo折腾记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/日记/2024m2d13h22m52s55.md"
+                "file": "content/posts/hugo折腾记.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "71e5ba602de944d5",
   "lastOpenFiles": [
-    "content/posts/日记/2024m2d12h22m16s18.md",
     "content/posts/日记/2024m2d13h22m52s55.md",
+    "content/posts/日记/2024m2d12h22m16s18.md",
     "content/posts/日记/2024m2d11h22m41s5.md",
     "content/posts/日记/2024m2d10h22m2s43.md",
     "archetypes/default.md",
