@@ -7,7 +7,7 @@ title = "me"
   	title = "嗣檙，全真龙门第廿八代"
 
   [[entries.entries]]
-	title = "Email"
+	title = "mail"
 	url = "mailto:i@taoyifan.cn"
 
 
@@ -15,7 +15,9 @@ title = "me"
 	title = "rss"
 	url = "index.xml"
 
-
+  [[entries.entries]]
+    title = "time"
+    url = "posts/notes/time"	
 
 [[entries]]
 title = "all posts"
@@ -31,7 +33,7 @@ title = "all posts"
     url = "categories/"
 
   [entries.post_list]
-  limit = 5
+  limit = 9
   show_more = true
   show_more_text = "See archive..."
   show_more_url = "posts"

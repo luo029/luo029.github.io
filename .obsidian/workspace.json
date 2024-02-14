@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/program/hugo折腾记.md",
+                "file": "content/posts/notes/time.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/program/hugo折腾记.md",
+                "file": "content/posts/notes/time.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/program/hugo折腾记.md",
+                "file": "content/posts/notes/time.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/program/hugo折腾记.md"
+                "file": "content/posts/notes/time.md"
               }
             }
           }
@@ -148,21 +148,25 @@
   },
   "active": "53f6b26ba54d9f16",
   "lastOpenFiles": [
+    "themes/nostyleplease/data/menu.toml~",
+    "content/posts/notes/time.md",
+    "content/posts/notes/time.md",
+    "未命名.md",
+    "content/posts/diary/2024m2d10h22m2s43.md",
+    "content/posts/program/hugo折腾记.md",
+    "content/posts/notes",
     "content/posts/program",
     "content/posts/diary/2024m2d13h22m52s55.md",
     "content/posts/diary/2024m2d12h22m16s18.md",
     "content/posts/diary/2024m2d11h22m41s5.md",
-    "content/posts/diary/2024m2d10h22m2s43.md",
     "archetypes/default.md",
     "content/posts/2024m2d13h22m52s5.md",
     "content/posts/2024m2d13h22m51s47.md",
-    "content/posts/program/hugo折腾记.md",
     "content/posts/日记/正月初三.md",
     "content/posts/2024m2d10h22m28s4.md",
     "hugo.toml~",
     "content/posts/未123.md",
     "content/posts/diary",
-    "themes/nostyleplease/data/menu.toml~",
     "content/posts/diary",
     "content/posts/0.md",
     "content/posts/2023m12d7h6m19s57.md",
@@ -177,7 +181,6 @@
     "obs_scripts/NewBlog.js",
     "obs_scripts",
     "obs_sctipts/NewBlog.js",
-    "obs_sctipts",
-    "obs_scripts/newblog.js"
+    "obs_sctipts"
   ]
 }
