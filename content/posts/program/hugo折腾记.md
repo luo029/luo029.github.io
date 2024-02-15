@@ -7,18 +7,14 @@ categories:
 draft: false
 ---
 ## 0. 换行
-	时间：2024.2.10
+	时间：2024.2.10/2.14
 ### 问题：
-在 Typora 中能够正确显示的连续两行
-
+源码模式：
 ```powershell
 Hello
 World
 ```
-
-
-hugo上显示：
-
+渲染后（并未完成换行）：
 ```powershell
 Hello World
 ```
@@ -28,7 +24,7 @@ Hello World
 根据 [GitHub Flavored Markdown Spec](https://github.github.com/gfm/#hard-line-breaks) 文档，要插入硬换行，你还可以在行尾输入 \ 或者直接输入 `<br />` 。
 
 ### 解决  
-hugo的硬换行默认关闭。
+hugo 的硬换行默认关闭。
 https://gohugo.io/getting-started/configuration-markup/#configure-markup
 
 在`hugo.toml`中添加
@@ -39,6 +35,11 @@ https://gohugo.io/getting-started/configuration-markup/#configure-markup
       hardWraps = true
 ```
 
+或者：
+
+使用 typora 编辑，换行时会自动空出一行。
+
+使用 obsidian 编辑，使用插件 easy typing，插件的配置中，有一个“一次回车产生两个换行符”的选项，打开即与 typora 相同。
 
 ## 1. 评论
 	时间：2024.2.14
