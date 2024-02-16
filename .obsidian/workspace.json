@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/diary/2024m2d16h22m19s2.md",
-                "mode": "preview",
+                "file": "content/posts/program/hugo折腾记.md",
+                "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/diary/2024m2d16h22m19s2.md",
+                "file": "content/posts/program/hugo折腾记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/diary/2024m2d16h22m19s2.md",
+                "file": "content/posts/program/hugo折腾记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/diary/2024m2d16h22m19s2.md"
+                "file": "content/posts/program/hugo折腾记.md"
               }
             }
           }
@@ -146,10 +147,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "53f6b26ba54d9f16",
+  "active": "71e5ba602de944d5",
   "lastOpenFiles": [
-    "content/posts/program/hugo折腾记.md",
     "content/posts/diary/2024m2d16h22m19s2.md",
+    "content/posts/program/hugo折腾记.md",
     "content/posts/notes/time.md",
     "content/posts/diary/2024m2d10h22m2s43.md",
     "未命名.md",
