@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/diary/2024m2d18h23m10s4.md",
-                "mode": "source",
+                "file": "content/posts/diary/2024m2d19h22m39s17.md",
+                "mode": "preview",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/diary/2024m2d18h23m10s4.md",
+                "file": "content/posts/diary/2024m2d19h22m39s17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/diary/2024m2d18h23m10s4.md",
+                "file": "content/posts/diary/2024m2d19h22m39s17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,11 +126,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/diary/2024m2d18h23m10s4.md"
+                "file": "content/posts/diary/2024m2d19h22m39s17.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -147,11 +148,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "71e5ba602de944d5",
+  "active": "bc6e5c66c0691217",
   "lastOpenFiles": [
+    "content/posts/diary/2024m2d18h23m10s4.md",
+    "content/posts/diary/2024m2d19h22m39s17.md",
     "content/posts/diary/2024m2d17h23m28s14.md",
     "content/posts/diary/2024m2d16h22m19s2.md",
-    "content/posts/diary/2024m2d18h23m10s4.md",
     "content/posts/diary/2024m2d10h22m2s43.md",
     "content/posts/2024m2d16h22m54s27.md",
     "content/posts/diary/2024m2d11h22m41s5.md",
@@ -180,7 +182,6 @@
     "content/posts/2023m12d7h6m19s2.md",
     "themes/nostyleplease/content/posts/2020-07-08-very-very-very-long-title-and-very-very-very-short-content.md",
     "themes/nostyleplease/content/posts/2020-07-08-language-tests.md",
-    "themes/nostyleplease/content/posts/test-tex.md",
     "themes/nostyleplease/images/screenshot.png",
     "obs_scripts/NewBlog.js",
     "obs_scripts",
