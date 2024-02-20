@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/notes/links.md",
-                "mode": "source",
+                "file": "content/posts/notes/about.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/notes/links.md",
+                "file": "content/posts/notes/about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/notes/links.md",
+                "file": "content/posts/notes/about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/notes/links.md"
+                "file": "content/posts/notes/about.md"
               }
             }
           }
@@ -148,12 +148,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "71e5ba602de944d5",
+  "active": "53f6b26ba54d9f16",
   "lastOpenFiles": [
-    "themes/nostyleplease/data/menu.toml~",
-    "content/posts/notes/about.md",
-    "content/posts/notes/time.md",
     "content/posts/notes/links.md",
+    "content/posts/notes/about.md",
+    "content/posts/notes/about.md",
+    "themes/nostyleplease/data/menu.toml~",
+    "content/posts/notes/time.md",
     "content/posts/diary/2024m2d19h22m39s17.md",
     "content/posts/diary/2024m2d18h23m10s4.md",
     "content/posts/diary/2024m2d17h23m28s14.md",
