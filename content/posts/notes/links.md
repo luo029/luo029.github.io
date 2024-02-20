@@ -22,4 +22,6 @@ draft: false
 
 [Chlorine](https://yoghurtlee.com)
 
+[Hissin](https://hissin.cn/)
+
 > 抱朴子曰：志合者不以山海为远，道乖者不以咫尺为近。故有跋涉而游集，亦或密迩而不接。

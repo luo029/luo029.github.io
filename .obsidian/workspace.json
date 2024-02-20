@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2024m2d20h22m55s4.md",
+                "file": "content/posts/notes/links.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2024m2d20h22m55s4.md",
+                "file": "content/posts/notes/links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/2024m2d20h22m55s4.md",
+                "file": "content/posts/notes/links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/2024m2d20h22m55s4.md"
+                "file": "content/posts/notes/links.md"
               }
             }
           }
@@ -150,9 +150,9 @@
   },
   "active": "71e5ba602de944d5",
   "lastOpenFiles": [
+    "content/posts/2024m2d20h22m55s4.md",
     "content/posts/diary/2024m2d19h22m39s17.md",
     "content/posts/diary/2024m2d10h22m2s43.md",
-    "content/posts/2024m2d20h22m55s4.md",
     "content/posts/notes/about.md",
     "content/posts/notes/time.md",
     "content/posts/notes/links.md",
