@@ -19,6 +19,8 @@ draft: false
 
 你可以叫我【辛落】/【嗣檙】/【小陶】。
 
+INFP-T（测了三四次，22,23,24 年测完的结果好像都是这玩意儿……？）
+
 0.邮箱： [i@taoyifan.cn](mailto:i@taoyifan.cn)
 
 1.telegram： [@taoooist](https://t.me/taoooist)
@@ -40,7 +42,6 @@ draft: false
 博客伴随了我的初三，高中，记载了我的人世间。
 
 现在的博客从甲辰年的大年初一开始，将记载我的修真生活。
-
 
 
 
