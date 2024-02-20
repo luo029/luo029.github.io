@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/diary/2024m2d19h22m39s17.md",
-                "mode": "preview",
+                "file": "content/posts/notes/links.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/diary/2024m2d19h22m39s17.md",
+                "file": "content/posts/notes/links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/diary/2024m2d19h22m39s17.md",
+                "file": "content/posts/notes/links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/diary/2024m2d19h22m39s17.md"
+                "file": "content/posts/notes/links.md"
               }
             }
           }
@@ -148,10 +148,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bc6e5c66c0691217",
+  "active": "71e5ba602de944d5",
   "lastOpenFiles": [
-    "content/posts/diary/2024m2d18h23m10s4.md",
+    "themes/nostyleplease/data/menu.toml~",
+    "content/posts/notes/about.md",
+    "content/posts/notes/time.md",
+    "content/posts/notes/links.md",
     "content/posts/diary/2024m2d19h22m39s17.md",
+    "content/posts/diary/2024m2d18h23m10s4.md",
     "content/posts/diary/2024m2d17h23m28s14.md",
     "content/posts/diary/2024m2d16h22m19s2.md",
     "content/posts/diary/2024m2d10h22m2s43.md",
@@ -162,10 +166,8 @@
     "content/posts/diary/2024m2d13h22m52s55.md",
     "content/posts/diary/2024m2d15h22m29s36.md",
     "content/posts/program/hugo折腾记.md",
-    "content/posts/notes/time.md",
     "未命名.md",
     "hugo.toml~",
-    "themes/nostyleplease/data/menu.toml~",
     "content/posts/notes",
     "content/posts/program",
     "archetypes/default.md",
@@ -179,9 +181,6 @@
     "content/posts/0.md",
     "content/posts/2023m12d7h6m19s57.md",
     "content/posts/2023m12d7h6m16s53.md",
-    "content/posts/2023m12d7h6m19s2.md",
-    "themes/nostyleplease/content/posts/2020-07-08-very-very-very-long-title-and-very-very-very-short-content.md",
-    "themes/nostyleplease/content/posts/2020-07-08-language-tests.md",
     "themes/nostyleplease/images/screenshot.png",
     "obs_scripts/NewBlog.js",
     "obs_scripts",

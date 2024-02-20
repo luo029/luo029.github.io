@@ -2,18 +2,12 @@
 title = "me"
 
   [[entries.entries]]
-  	title = "贫士辛落"
-  [[entries.entries]]
-  	title = "嗣檙，全真龙门第廿八代"
+    title = "about"
+    url = "posts/notes/about"
 
   [[entries.entries]]
-	title = "mail"
-	url = "mailto:i@taoyifan.cn"
-
-
-  [[entries.entries]]
-	title = "rss"
-	url = "index.xml"
+    title = "links"
+    url = "posts/notes/links"	
 
   [[entries.entries]]
     title = "time"
