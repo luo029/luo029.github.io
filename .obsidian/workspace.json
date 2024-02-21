@@ -122,7 +122,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/diary/正月十二.md",
+                "file": "content/posts/notes/about.md",
                 "mode": "source",
                 "source": false
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/diary/正月十二.md",
+                "file": "content/posts/notes/about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/diary/正月十二.md",
+                "file": "content/posts/notes/about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/diary/正月十二.md"
+                "file": "content/posts/notes/about.md"
               }
             }
           }
@@ -259,10 +259,10 @@
   },
   "active": "c2eebbc7e5224350",
   "lastOpenFiles": [
+    "content/posts/diary/正月十二.md",
     "content/posts/program/通过腾讯企业邮箱注册域名邮箱.md",
     "content/posts/program/hugo折腾记.md",
     "content/posts/program/关于paypal账号的若干问题作出指示.md",
-    "content/posts/diary/正月十二.md",
     "content/posts/program/未命名.md",
     "templates/New Post.md.md",
     "content/posts/123.md",
