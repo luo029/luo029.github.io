@@ -3,7 +3,7 @@ title: hugo折腾记
 date: 2024-02-10T22:50:32+08:00
 tags:
   - hugo
-categories: 
+categories: 折腾
 draft: false
 ---
 ## 0. 换行

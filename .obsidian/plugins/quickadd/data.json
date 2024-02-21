@@ -1,24 +1,59 @@
 {
   "choices": [
     {
-      "id": "e0fdc3be-b22c-4bdf-b12f-b14dfaeba669",
-      "name": "新建博客",
+      "id": "007cbb43-708d-4e7a-a309-8058f8a0ed51",
+      "name": "create",
       "type": "Macro",
       "command": false,
-      "macroId": "e8070cc4-af04-4e28-bef3-00efbc4fb0b7"
+      "macroId": "7b00c08d-8004-436c-a78f-04b8a0d0cfcb"
     }
   ],
   "macros": [
     {
-      "name": "新建博客",
-      "id": "e8070cc4-af04-4e28-bef3-00efbc4fb0b7",
+      "name": "create",
+      "id": "7b00c08d-8004-436c-a78f-04b8a0d0cfcb",
       "commands": [
         {
-          "name": "NewBlog",
+          "name": "create_new_post",
           "type": "UserScript",
-          "id": "14593eb0-d909-4bb2-a220-3db7aff4b014",
-          "path": "obs_scripts/NewBlog.js",
+          "id": "1298cdca-99a4-4e35-a24d-5ab655737bda",
+          "path": "obs_scripts/create_new_post.js",
           "settings": {}
+        },
+        {
+          "name": "Untitled Template Choice",
+          "type": "NestedChoice",
+          "id": "e7a00883-4159-4269-9c10-3cbd014f069f",
+          "choice": {
+            "id": "f15d9a8d-a74b-4d78-827c-f752c48e3ef1",
+            "name": "Untitled Template Choice",
+            "type": "Template",
+            "command": false,
+            "templatePath": "templates/New Post.md.md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "{{VALUE:articleTitle}}"
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [
+                "content/posts"
+              ],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false,
+              "chooseFromSubfolders": false
+            },
+            "appendLink": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": true,
+            "openFileInMode": "default",
+            "fileExistsMode": "Increment the file name",
+            "setFileExistsBehavior": false
+          }
         }
       ],
       "runOnStartup": false
