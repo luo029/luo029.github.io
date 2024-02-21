@@ -12,11 +12,11 @@ draft: false
 
 微言：尘劫有尽，我愿无穷。
 
-邮箱： i@taoyifan.cn
+邮箱： sicheng@taoooist.org
 
-网站： https://taoyifan.cn
+网站： https://sicheng.taoooist.org
 
-头像 ： https://cravatar.cn/avatar/704dbe44b9de4401c0d2ae8a9d372323?d=identicon
+头像 ： https://cravatar.cn/avatar/38aa8d32d25de51cfdf67c0cf3e6e0f0
 
 ## 交游
 

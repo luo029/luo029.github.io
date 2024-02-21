@@ -1,7 +1,8 @@
 {
   "accentColor": "",
   "baseFontSize": 29,
-  "textFontFamily": "LXGW WenKai GB Screen",
-  "monospaceFontFamily": "LXGW WenKai GB Screen",
-  "interfaceFontFamily": "LXGW WenKai GB Screen"
+  "textFontFamily": "LXGW WenKai GB Screen,霞鹜文楷 屏幕阅读版",
+  "monospaceFontFamily": "LXGW WenKai GB Screen,霞鹜文楷 屏幕阅读版",
+  "interfaceFontFamily": "LXGW WenKai GB Screen,霞鹜文楷 屏幕阅读版",
+  "theme": "moonstone"
 }

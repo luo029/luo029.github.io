@@ -21,7 +21,7 @@ draft: false
 
 INFP-T（测了三四次，22,23,24 年测完的结果好像都是这玩意儿……？）
 
-0.邮箱： [i@taoyifan.cn](mailto:i@taoyifan.cn)
+0.邮箱： [sicheng@taoooist.org](mailto:sicheng@taoooist.org)
 
 1.telegram： [@taoooist](https://t.me/taoooist)
 
@@ -43,7 +43,4 @@ INFP-T（测了三四次，22,23,24 年测完的结果好像都是这玩意儿�
 
 现在的博客从甲辰年的大年初一开始，将记载我的修真生活。
 
-
-
-
-
+2024.2.21，换了 taoooist.org 域名。
