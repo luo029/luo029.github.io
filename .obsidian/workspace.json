@@ -110,7 +110,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/program/关于paypal账号的若干问题作出指示.md",
+                "file": "content/posts/notes/关于paypal账号的若干问题作出指示.md",
                 "mode": "source",
                 "source": false
               }
@@ -257,12 +257,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c2eebbc7e5224350",
+  "active": "53f6b26ba54d9f16",
   "lastOpenFiles": [
     "content/posts/diary/正月十二.md",
-    "content/posts/program/通过腾讯企业邮箱注册域名邮箱.md",
+    "content/posts/notes/通过腾讯企业邮箱注册域名邮箱.md",
     "content/posts/program/hugo折腾记.md",
-    "content/posts/program/关于paypal账号的若干问题作出指示.md",
+    "content/posts/notes/关于paypal账号的若干问题作出指示.md",
     "content/posts/program/未命名.md",
     "templates/New Post.md.md",
     "content/posts/123.md",
