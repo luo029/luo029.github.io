@@ -8,115 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "71e5ba602de944d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/New Post.md.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8065df75f36b710",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/New Post.md.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "fc791c75e818d64b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/diary/正月十二.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5d019348be12c81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/New Post.md.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7f068695cdb7804d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/New Post.md.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "03c93611e4bc377a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/New Post.md.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ded15f37c58551b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/notes/hugo折腾记.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a323ff1647b4ade3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/New Post.md.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "972627b1e75b10de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/notes/关于paypal账号的若干问题作出指示.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c2eebbc7e5224350",
             "type": "leaf",
             "state": {
@@ -128,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -259,12 +149,13 @@
   },
   "active": "c2eebbc7e5224350",
   "lastOpenFiles": [
-    "content/posts/diary/2024m2d20h22m55s4.md",
-    "templates/New Post.md.md",
-    "content/posts/diary/正月十二.md",
-    "content/posts/notes/通过腾讯企业邮箱注册域名邮箱.md",
+    "content/posts/notes/about.md",
     "content/posts/notes/hugo折腾记.md",
     "content/posts/notes/关于paypal账号的若干问题作出指示.md",
+    "content/posts/diary/正月十二.md",
+    "content/posts/diary/2024m2d20h22m55s4.md",
+    "templates/New Post.md.md",
+    "content/posts/notes/通过腾讯企业邮箱注册域名邮箱.md",
     "content/posts/program/未命名.md",
     "content/posts/123.md",
     "content/posts/2024-02-21-123.md",
@@ -273,7 +164,6 @@
     "content/posts/1.md",
     "content/posts/notes/time.md",
     "content/posts/notes/links.md",
-    "content/posts/notes/about.md",
     "content/posts/diary/2024m2d11h22m41s5.md",
     "content/posts/diary/2024m2d14h22m38s3.md",
     "content/posts/diary/2024m2d16h22m19s2.md",
