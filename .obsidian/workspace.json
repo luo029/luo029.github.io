@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "22eab9c26d01afce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/diary/正月十三.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/diary/正月十二.md",
+                "file": "content/posts/diary/正月十三.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/diary/正月十二.md",
+                "file": "content/posts/diary/正月十三.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/diary/正月十二.md"
+                "file": "content/posts/diary/正月十三.md"
               }
             }
           }
@@ -147,12 +160,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c2eebbc7e5224350",
+  "active": "53f6b26ba54d9f16",
   "lastOpenFiles": [
+    "content/posts/diary/正月十二.md",
+    "content/posts/diary/正月十三.md",
     "content/posts/notes/about.md",
     "content/posts/notes/hugo折腾记.md",
     "content/posts/notes/关于paypal账号的若干问题作出指示.md",
-    "content/posts/diary/正月十二.md",
     "content/posts/diary/2024m2d20h22m55s4.md",
     "templates/New Post.md.md",
     "content/posts/notes/通过腾讯企业邮箱注册域名邮箱.md",
@@ -177,7 +191,6 @@
     "obs_scripts/新建 文本文档.txt",
     "templates",
     "content/posts/日记/2024m2d11h22m41s5.md",
-    "content/posts/日记/2024m2d10h22m2s43.md",
     "themes/nostyleplease/data/menu.toml~",
     "hugo.toml~",
     "content/posts/notes",
