@@ -38,13 +38,25 @@
               "type": "markdown",
               "state": {
                 "file": "content/posts/diary/正月十四.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "5b65357f290bc1a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/notes/time.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/diary/正月十四.md",
+                "file": "content/posts/notes/time.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/diary/正月十四.md",
+                "file": "content/posts/notes/time.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/diary/正月十四.md"
+                "file": "content/posts/notes/time.md"
               }
             }
           }
@@ -172,10 +184,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5f0a66ed7977c153",
+  "active": "5b65357f290bc1a6",
   "lastOpenFiles": [
-    "content/posts/notes/about.md",
+    "content/posts/diary/正月十五.md",
     "content/posts/diary/正月十四.md",
+    "content/posts/notes/about.md",
     "content/posts/diary/正月十三.md",
     "content/posts/diary/正月十二.md",
     "content/posts/notes/hugo折腾记.md",
@@ -199,7 +212,6 @@
     "content/posts/diary/2024m2d19h22m39s17.md",
     "content/posts/program/hugo折腾记 1.md",
     "content/posts/none.md",
-    "content/posts/diary/2024m2d15h22m29s36.md",
     "obs_scripts/create_new_post.js",
     "obs_scripts/新建 文本文档.txt",
     "templates",
