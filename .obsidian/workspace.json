@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/diary/正月十六.md",
+                "file": "content/posts/notes/about.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/diary/正月十六.md",
+                "file": "content/posts/notes/about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/diary/正月十六.md",
+                "file": "content/posts/notes/about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/diary/正月十六.md"
+                "file": "content/posts/notes/about.md"
               }
             }
           }
@@ -198,10 +198,10 @@
   },
   "active": "e683079b1dfdb2c5",
   "lastOpenFiles": [
+    "content/posts/diary/正月十六.md",
     "content/posts/notes/time.md",
     "content/posts/notes/about.md",
     "content/posts/notes/hugo折腾记.md",
-    "content/posts/diary/正月十六.md",
     "content/posts/diary/正月十五.md",
     "content/posts/notes/links.md",
     "content/posts/test.md",
