@@ -122,7 +122,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/notes/about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/notes/about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/notes/about.md"
+                "file": "content/posts/test.md"
               }
             }
           }
@@ -184,12 +182,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5b65357f290bc1a6",
+  "active": "53f6b26ba54d9f16",
   "lastOpenFiles": [
+    "themes/nostyleplease/layouts/_default/rss.xml",
+    "themes/nostyleplease/layouts/_default/新建 文本文档.txt",
+    "content/posts/notes/about.md",
+    "content/posts/test.md",
     "content/posts/diary/正月十五.md",
     "content/posts/notes/time.md",
     "content/posts/diary/正月十四.md",
-    "content/posts/notes/about.md",
     "content/posts/diary/正月十三.md",
     "content/posts/diary/正月十二.md",
     "content/posts/notes/hugo折腾记.md",
@@ -210,8 +211,6 @@
     "content/posts/diary/2024m2d17h23m28s14.md",
     "content/posts/diary/2024m2d18h23m10s4.md",
     "content/posts/diary/2024m2d19h22m39s17.md",
-    "content/posts/program/hugo折腾记 1.md",
-    "content/posts/none.md",
     "obs_scripts/create_new_post.js",
     "obs_scripts/新建 文本文档.txt",
     "templates",
@@ -221,7 +220,6 @@
     "content/posts/program",
     "content/posts/diary",
     "content/posts/diary",
-    "themes/nostyleplease/images/screenshot.png",
-    "obs_scripts/NewBlog.js"
+    "themes/nostyleplease/images/screenshot.png"
   ]
 }
