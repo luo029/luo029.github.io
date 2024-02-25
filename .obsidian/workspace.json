@@ -49,9 +49,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/notes/hugo折腾记.md",
+                "file": "content/posts/notes/about.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/notes/hugo折腾记.md",
+                "file": "content/posts/notes/about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/notes/hugo折腾记.md",
+                "file": "content/posts/notes/about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/notes/hugo折腾记.md"
+                "file": "content/posts/notes/about.md"
               }
             }
           }
@@ -186,14 +186,14 @@
   },
   "active": "5b65357f290bc1a6",
   "lastOpenFiles": [
-    "content/posts/notes/links.md",
+    "content/posts/notes/time.md",
     "content/posts/notes/hugo折腾记.md",
+    "content/posts/notes/links.md",
     "content/posts/notes/about.md",
     "content/posts/test.md",
     "themes/nostyleplease/layouts/_default/rss.xml",
     "themes/nostyleplease/layouts/_default/新建 文本文档.txt",
     "content/posts/diary/正月十五.md",
-    "content/posts/notes/time.md",
     "content/posts/diary/正月十四.md",
     "content/posts/diary/正月十三.md",
     "content/posts/diary/正月十二.md",
