@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/notes/about.md",
+                "file": "content/posts/diary/正月十五.md",
                 "mode": "source",
-                "source": true
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e683079b1dfdb2c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/diary/正月十六.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/notes/about.md",
+                "file": "content/posts/diary/正月十六.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/notes/about.md",
+                "file": "content/posts/diary/正月十六.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/notes/about.md"
+                "file": "content/posts/diary/正月十六.md"
               }
             }
           }
@@ -184,16 +196,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5b65357f290bc1a6",
+  "active": "e683079b1dfdb2c5",
   "lastOpenFiles": [
     "content/posts/notes/time.md",
-    "content/posts/notes/hugo折腾记.md",
-    "content/posts/notes/links.md",
     "content/posts/notes/about.md",
+    "content/posts/notes/hugo折腾记.md",
+    "content/posts/diary/正月十六.md",
+    "content/posts/diary/正月十五.md",
+    "content/posts/notes/links.md",
     "content/posts/test.md",
     "themes/nostyleplease/layouts/_default/rss.xml",
     "themes/nostyleplease/layouts/_default/新建 文本文档.txt",
-    "content/posts/diary/正月十五.md",
     "content/posts/diary/正月十四.md",
     "content/posts/diary/正月十三.md",
     "content/posts/diary/正月十二.md",
