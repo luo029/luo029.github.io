@@ -78,21 +78,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "69dc8977cb0195ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/diary/正月十七 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -158,7 +146,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/diary/正月十七 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +162,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/diary/正月十七 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
