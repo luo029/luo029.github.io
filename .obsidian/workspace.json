@@ -78,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "37be7808f1969296",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/diary/正月十八.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -146,6 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/posts/diary/正月十八.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,6 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/posts/diary/正月十八.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/diary/正月十七 1.md"
+                "file": "content/posts/diary/正月十八.md"
               }
             }
           }
@@ -208,12 +222,13 @@
   },
   "active": "53f6b26ba54d9f16",
   "lastOpenFiles": [
+    "content/posts/diary/正月十二.md",
+    "content/posts/diary/正月十八.md",
     "content/posts/diary/正月十七.md",
     "content/posts/diary/正月十七 1.md",
     "content/posts/diary/正月十四.md",
     "content/posts/diary/正月十三.md",
     "content/posts/diary/正月十六.md",
-    "content/posts/diary/正月十二.md",
     "content/posts/diary/2024m2d20h22m55s4.md",
     "content/posts/diary/正月十五.md",
     "content/posts/notes/about.md",
@@ -235,7 +250,6 @@
     "content/posts/diary/2024m2d11h22m41s5.md",
     "content/posts/diary/2024m2d14h22m38s3.md",
     "content/posts/diary/2024m2d16h22m19s2.md",
-    "content/posts/diary/2024m2d17h23m28s14.md",
     "obs_scripts/create_new_post.js",
     "obs_scripts/新建 文本文档.txt",
     "templates",
