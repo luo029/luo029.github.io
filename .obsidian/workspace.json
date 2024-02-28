@@ -90,9 +90,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "29db40cad6414833",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/diary/正月十九.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -158,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/diary/正月十八.md",
+                "file": "content/posts/diary/正月十九.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/diary/正月十八.md",
+                "file": "content/posts/diary/正月十九.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/diary/正月十八.md"
+                "file": "content/posts/diary/正月十九.md"
               }
             }
           }
@@ -207,8 +219,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,8 +233,9 @@
   },
   "active": "53f6b26ba54d9f16",
   "lastOpenFiles": [
-    "content/posts/diary/正月十二.md",
     "content/posts/diary/正月十八.md",
+    "content/posts/diary/正月十九.md",
+    "content/posts/diary/正月十二.md",
     "content/posts/diary/正月十七.md",
     "content/posts/diary/正月十七 1.md",
     "content/posts/diary/正月十四.md",
@@ -249,7 +261,6 @@
     "content/posts/1.md",
     "content/posts/diary/2024m2d11h22m41s5.md",
     "content/posts/diary/2024m2d14h22m38s3.md",
-    "content/posts/diary/2024m2d16h22m19s2.md",
     "obs_scripts/create_new_post.js",
     "obs_scripts/新建 文本文档.txt",
     "templates",
