@@ -31,7 +31,7 @@ INFP-T（测了三四次，22,23,24 年测完的结果好像都是这玩意儿�
 
 [rss](/index.xml)
 
-[《修真日报》]([https://mailchi.mp/614c9143b00a/pj082dgp6q](https://mailchi.mp/614c9143b00a/pj082dgp6q))（每周邮件推送）
+《修真日报》（每周邮件推送）
 
 内容按 [CC-BY-SA 4.0 知识共享许可协议](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)发布
 
