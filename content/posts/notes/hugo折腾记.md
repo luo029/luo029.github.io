@@ -24,10 +24,10 @@ Hello World
 根据 [GitHub Flavored Markdown Spec](https://github.github.com/gfm/#hard-line-breaks) 文档，要插入硬换行，你还可以在行尾输入 \ 或者直接输入 `<br />` 。
 
 ### 解决  
-hugo 的硬换行默认关闭。
+Hugo 的硬换行默认关闭。
 https://gohugo.io/getting-started/configuration-markup/#configure-markup
 
-在`hugo.toml`中添加
+在 `hugo.toml` 中添加
 ```powershell
 [markup]
   [markup.goldmark]
@@ -43,13 +43,13 @@ https://gohugo.io/getting-started/configuration-markup/#configure-markup
 
 ## 1. 评论
 	时间：2024.2.14
-主题是nostyleplease，所用评论系统是[giscus](https://github.com/giscus/giscus).
+主题是 nostyleplease，所用评论系统是 [giscus](https://github.com/giscus/giscus).
 
 具体操作：
 ```powershell
 将 giscus 提供的<script>标签内容做对应配置后插入到 layouts/posts/single.html 的</article> 这一行后面
 ```
-## 2. jsDelivr+picgo，加速 github 图床
+## 2. JsDelivr+picgo，加速 github 图床
 默认是 github 图床，通过 picgo 将图片上传到 github.
 
 鉴于太慢，使用 jsDelivr 加速图片访问地址。
@@ -63,11 +63,11 @@ https://gohugo.io/getting-started/configuration-markup/#configure-markup
 - `main` 仓库的分支
   
 
-## 3. rss 没有换行符，无法正常显示博文
+## 3. Rss 没有换行符，无法正常显示博文
 
 ### 前言
 
-默认 rss 模板中，博文没有换行符`<p>`。
+默认 rss 模板中，博文没有换行符 `<p>`。
 
 例子：
 
@@ -142,6 +142,23 @@ https://gohugo.io/getting-started/configuration-markup/#configure-markup
 
 分别在 `\themes\nostyleplease\layouts\_default\single.html` 
 
-以及`\themes\nostyleplease\layouts\index.html`
+以及 `\themes\nostyleplease\layouts\index.html`
 
 插入了 mailhcimp 的订阅代码。
+## 添加 favicon
+
+把 Favicon 图标直接放到 `themes/nostyleplease/static` 目录里
+
+（我同时还放在了`主文件夹/static` 文件里，不过我觉得应该首先使用主题文件夹里的。）
+
+在 `theme/nostyleplease（主题）/layouts/partials/head. html`  文件查找到下面的一行或是直接添加一行：
+
+```html
+<link rel="shortcut icon" href="xxx" />
+```
+
+然后修改为
+
+```html
+<link rel="shortcut icon" href="favicon.ico" />
+```

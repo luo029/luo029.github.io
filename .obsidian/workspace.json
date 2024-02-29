@@ -109,8 +109,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/diary/正月二十.md",
-                "mode": "preview",
+                "file": "content/posts/notes/hugo折腾记.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/diary/正月二十.md",
+                "file": "content/posts/notes/hugo折腾记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/diary/正月二十.md",
+                "file": "content/posts/notes/hugo折腾记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/diary/正月二十.md"
+                "file": "content/posts/notes/hugo折腾记.md"
               }
             }
           }
@@ -245,6 +245,7 @@
   },
   "active": "aa991383e82193ba",
   "lastOpenFiles": [
+    "content/posts/diary/正月二十.md",
     "themes/nostyleplease/static/favicon.ico",
     "themes/nostyleplease/static",
     "static/favicon.ico",
@@ -254,7 +255,6 @@
     "static/img",
     "static/新建文件夹",
     "content/posts/diary/2024m2d20h22m55s4.md",
-    "content/posts/diary/正月二十.md",
     "content/posts/diary/正月十八.md",
     "content/posts/diary/正月十九.md",
     "content/posts/diary/正月十二.md",
@@ -280,7 +280,6 @@
     "123.md",
     "2024-02-21-123.md",
     "content/posts/1.md",
-    "obs_scripts/create_new_post.js",
     "themes/nostyleplease/images/screenshot.png"
   ]
 }
