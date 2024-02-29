@@ -245,6 +245,9 @@
   },
   "active": "aa991383e82193ba",
   "lastOpenFiles": [
+    "themes/nostyleplease/static/favicon.ico",
+    "themes/nostyleplease/static",
+    "static/favicon.ico",
     "favicon.ico",
     "static/img/favicon.ico",
     "static/img/bitbug_favicon.ico",
@@ -278,9 +281,6 @@
     "2024-02-21-123.md",
     "content/posts/1.md",
     "obs_scripts/create_new_post.js",
-    "obs_scripts/新建 文本文档.txt",
-    "templates",
-    "themes/nostyleplease/data/menu.toml~",
     "themes/nostyleplease/images/screenshot.png"
   ]
 }
