@@ -245,6 +245,7 @@
   },
   "active": "aa991383e82193ba",
   "lastOpenFiles": [
+    "favicon.ico",
     "static/img/favicon.ico",
     "static/img/bitbug_favicon.ico",
     "static/img",
@@ -280,7 +281,6 @@
     "obs_scripts/新建 文本文档.txt",
     "templates",
     "themes/nostyleplease/data/menu.toml~",
-    "hugo.toml~",
     "themes/nostyleplease/images/screenshot.png"
   ]
 }
