@@ -110,7 +110,7 @@
               "type": "markdown",
               "state": {
                 "file": "content/posts/diary/正月二十.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -243,11 +243,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "53f6b26ba54d9f16",
+  "active": "aa991383e82193ba",
   "lastOpenFiles": [
-    "content/posts/diary/正月十九.md",
-    "content/posts/diary/正月二十.md",
     "content/posts/diary/正月十八.md",
+    "content/posts/diary/正月二十.md",
+    "content/posts/diary/正月十九.md",
     "content/posts/diary/正月十二.md",
     "content/posts/diary/正月十七.md",
     "content/posts/diary/正月十七 1.md",
