@@ -245,6 +245,10 @@
   },
   "active": "aa991383e82193ba",
   "lastOpenFiles": [
+    "static/img/favicon.ico",
+    "static/img/bitbug_favicon.ico",
+    "static/img",
+    "static/新建文件夹",
     "content/posts/diary/2024m2d20h22m55s4.md",
     "content/posts/diary/正月二十.md",
     "content/posts/diary/正月十八.md",
@@ -272,15 +276,11 @@
     "123.md",
     "2024-02-21-123.md",
     "content/posts/1.md",
-    "content/posts/diary/2024m2d11h22m41s5.md",
     "obs_scripts/create_new_post.js",
     "obs_scripts/新建 文本文档.txt",
     "templates",
     "themes/nostyleplease/data/menu.toml~",
     "hugo.toml~",
-    "content/posts/notes",
-    "content/posts/program",
-    "content/posts/diary",
     "themes/nostyleplease/images/screenshot.png"
   ]
 }
