@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/notes/about.md",
+                "file": "templates/New Post.md.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/notes/about.md",
+                "file": "templates/New Post.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/notes/about.md",
+                "file": "templates/New Post.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/notes/about.md"
+                "file": "templates/New Post.md.md"
               }
             }
           }
@@ -245,8 +245,17 @@
   },
   "active": "aa991383e82193ba",
   "lastOpenFiles": [
-    "content/posts/notes/hugo折腾记.md",
     "content/posts/diary/正月二十.md",
+    "content/posts/diary/正月十八.md",
+    "content/posts/diary/正月十二.md",
+    "content/posts/diary/正月十九.md",
+    "content/posts/diary/正月十六.md",
+    "content/posts/diary/正月十七.md",
+    "content/posts/diary/正月十三.md",
+    "content/posts/diary/正月十四.md",
+    "content/posts/diary/正月十五.md",
+    "content/posts/notes/about.md",
+    "content/posts/notes/hugo折腾记.md",
     "themes/nostyleplease/static/favicon.ico",
     "themes/nostyleplease/static",
     "static/favicon.ico",
@@ -256,16 +265,7 @@
     "static/img",
     "static/新建文件夹",
     "content/posts/diary/2024m2d20h22m55s4.md",
-    "content/posts/diary/正月十八.md",
-    "content/posts/diary/正月十九.md",
-    "content/posts/diary/正月十二.md",
-    "content/posts/diary/正月十七.md",
     "content/posts/diary/正月十七 1.md",
-    "content/posts/diary/正月十四.md",
-    "content/posts/diary/正月十三.md",
-    "content/posts/diary/正月十六.md",
-    "content/posts/diary/正月十五.md",
-    "content/posts/notes/about.md",
     "content/posts/notes/time.md",
     "content/posts/notes/links.md",
     "content/posts/test.md",
