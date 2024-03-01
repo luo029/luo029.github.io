@@ -121,6 +121,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "templates/New Post.md.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b12c9e1841b6c63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "content/posts/diary/正月廿一.md",
                 "mode": "source",
                 "source": false
@@ -128,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -260,8 +272,9 @@
   "lastOpenFiles": [
     "templates/New Post.md.md",
     "content/posts/diary/正月廿一.md",
-    "content/posts/diary/正月二十.md",
+    "content/posts/diary/正月廿一.md",
     "content/posts/diary/正月十八.md",
+    "content/posts/diary/正月二十.md",
     "content/posts/diary/正月十二.md",
     "content/posts/diary/正月十九.md",
     "content/posts/diary/正月十六.md",
@@ -293,7 +306,6 @@
     "content/posts/2024-02-21-123.md",
     "123.md",
     "2024-02-21-123.md",
-    "content/posts/1.md",
     "themes/nostyleplease/images/screenshot.png"
   ]
 }
