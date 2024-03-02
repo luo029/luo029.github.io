@@ -1,30 +1,12 @@
 [[entries]]
-title = "me"
+title = "嗣檙"
 
   [[entries.entries]]
-    title = "about"
-    url = "posts/notes/about"
-
-  [[entries.entries]]
-    title = "links"
-    url = "posts/notes/links"	
-
-  [[entries.entries]]
-    title = "time"
-    url = "posts/notes/time"	
+    title = "修真实验记录"
+    url = "https://taoyifan.cn"
 
 [[entries]]
-title = "all posts"
-
-
-    [[entries.entries]]
-    title = "posts by tags"
-    url = "tags/"
-
-
-    [[entries.entries]]
-    title = "posts by categories"
-    url = "categories/"
+title = "修真日报"
 
   [entries.post_list]
   limit = 9
