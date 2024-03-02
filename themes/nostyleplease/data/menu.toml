@@ -11,5 +11,5 @@ title = "修真日报"
   [entries.post_list]
   limit = 9
   show_more = true
-  show_more_text = "See archive..."
+  show_more_text = "往期..."
   show_more_url = "posts"
