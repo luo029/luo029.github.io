@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/diary/正月廿一.md",
+                "file": "templates/New Post.md.md",
                 "mode": "source",
                 "source": false
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/diary/正月廿一.md",
+                "file": "templates/New Post.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/diary/正月廿一.md",
+                "file": "templates/New Post.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/diary/正月廿一.md"
+                "file": "templates/New Post.md.md"
               }
             }
           }
@@ -268,14 +268,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "53f6b26ba54d9f16",
+  "active": "1b12c9e1841b6c63",
   "lastOpenFiles": [
+    "content/posts/diary/正月廿一.md",
+    "content/posts/diary/正月十二.md",
     "templates/New Post.md.md",
-    "content/posts/diary/正月廿一.md",
-    "content/posts/diary/正月廿一.md",
     "content/posts/diary/正月十八.md",
     "content/posts/diary/正月二十.md",
-    "content/posts/diary/正月十二.md",
     "content/posts/diary/正月十九.md",
     "content/posts/diary/正月十六.md",
     "content/posts/diary/正月十七.md",
