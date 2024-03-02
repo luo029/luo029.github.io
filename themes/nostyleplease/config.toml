@@ -35,5 +35,4 @@
     date_format = "2006-01-02"
   favicon= "/img/favicon.ico"
 
-[permalinks]
-  posts = "/:slug/"
+
