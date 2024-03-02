@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "22eab9c26d01afce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/notes/about.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5f0a66ed7977c153",
             "type": "leaf",
             "state": {
@@ -54,93 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e683079b1dfdb2c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/notes/about.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a3582b8eb0d3c97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/diary/正月十七.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37be7808f1969296",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/diary/正月十八.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29db40cad6414833",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/diary/正月十九.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "aa991383e82193ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/New Post.md.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d053a49d597463ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/New Post.md.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b12c9e1841b6c63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/New Post.md.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -206,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/New Post.md.md",
+                "file": "content/posts/diary/正月十五.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/New Post.md.md",
+                "file": "content/posts/diary/正月十五.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/New Post.md.md"
+                "file": "content/posts/diary/正月十五.md"
               }
             }
           }
@@ -268,21 +172,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1b12c9e1841b6c63",
+  "active": "5b65357f290bc1a6",
   "lastOpenFiles": [
+    "content/posts/notes/hugo折腾记.md",
+    "content/posts/notes/about.md",
+    "content/posts/notes/关于paypal账号的若干问题作出指示.md",
+    "content/posts/diary/正月十六.md",
+    "content/posts/diary/正月十五.md",
+    "content/posts/diary/正月十七.md",
+    "content/posts/diary/正月十八.md",
+    "content/posts/diary/正月十九.md",
+    "templates/New Post.md.md",
     "content/posts/diary/正月廿一.md",
     "content/posts/diary/正月十二.md",
-    "templates/New Post.md.md",
-    "content/posts/diary/正月十八.md",
     "content/posts/diary/正月二十.md",
-    "content/posts/diary/正月十九.md",
-    "content/posts/diary/正月十六.md",
-    "content/posts/diary/正月十七.md",
     "content/posts/diary/正月十三.md",
     "content/posts/diary/正月十四.md",
-    "content/posts/diary/正月十五.md",
-    "content/posts/notes/about.md",
-    "content/posts/notes/hugo折腾记.md",
     "themes/nostyleplease/static/favicon.ico",
     "themes/nostyleplease/static",
     "static/favicon.ico",
@@ -298,7 +203,6 @@
     "content/posts/test.md",
     "themes/nostyleplease/layouts/_default/rss.xml",
     "themes/nostyleplease/layouts/_default/新建 文本文档.txt",
-    "content/posts/notes/关于paypal账号的若干问题作出指示.md",
     "content/posts/notes/通过腾讯企业邮箱注册域名邮箱.md",
     "content/posts/program/未命名.md",
     "content/posts/123.md",
