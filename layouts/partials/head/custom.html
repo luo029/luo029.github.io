@@ -1,0 +1,22 @@
+<style>
+  :root {
+    --sys-font-family: "LXGW WenKai";
+    --zh-font-family: "LXGW WenKai";
+    --base-font-family: "LXGW WenKai";
+    --code-font-family: "LXGW WenKai";
+    --article-font-family: "LXGW WenKai";
+  }
+</style>
+
+<script>
+  (function () {
+    const customFont = document.createElement("link");
+    customFont.href =
+      "https://192960944.r.cdn36.com/chinesefonts2/packages/lxgwwenkai/dist/LXGWWenKai-Regular/result.css";
+
+    customFont.type = "text/css";
+    customFont.rel = "stylesheet";
+
+    document.head.appendChild(customFont);
+  })();
+</script>
