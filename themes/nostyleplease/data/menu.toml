@@ -2,12 +2,12 @@
 title = "☵"
 
   [[entries.entries]]
-    title = "修真实验记录"
-    url = "https://taoyifan.cn"
-
-  [[entries.entries]]
     title = "修真笔记"
     url = "https://note.taoooist.org"
+
+  [[entries.entries]]
+    title = "修真实验记录"
+    url = "https://taoyifan.cn"
 
   [[entries.entries]]
     title = "周刊《修真日报》订阅"
