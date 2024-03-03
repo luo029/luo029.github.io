@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b9c38edd2a082270",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/正月廿三.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/正月廿二.md",
+                "file": "content/posts/正月廿三.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/正月廿二.md",
+                "file": "content/posts/正月廿三.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/正月廿二.md"
+                "file": "content/posts/正月廿三.md"
               }
             }
           }
@@ -196,8 +208,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "044033be0e7c6951",
+  "active": "b9c38edd2a082270",
   "lastOpenFiles": [
+    "content/posts/正月廿二.md",
+    "content/posts/正月廿三.md",
     "layouts/partials/head/custom.html",
     "layouts/partials/head/新建 文本文档.txt",
     "layouts/partials/head/新建文件夹",
@@ -206,7 +220,6 @@
     "layouts/partials",
     "layouts/新建文件夹",
     "content/posts/2024m2d10h22m2s43.md",
-    "content/posts/正月廿二.md",
     "content/posts/正月十五.md",
     "content/posts/notes/hugo折腾记.md",
     "content/posts/notes/about.md",
@@ -224,7 +237,6 @@
     "themes/nostyleplease/static/favicon.ico",
     "themes/nostyleplease/static",
     "static/favicon.ico",
-    "favicon.ico",
     "content/posts/2024m2d20h22m55s4.md",
     "content/posts/diary/正月十七 1.md",
     "content/posts/notes/time.md",
