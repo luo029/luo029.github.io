@@ -1,15 +1,6 @@
 {{ define "main" }}
 
 <header>
-    <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-9660DD3WNH"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-9660DD3WNH');
-</script>
     <h1>{{ $.Site.Title }}</h1>
     {{- if $.Site.Params.theme_config.show_description -}}
         <p>{{ $.Site.Params.description }}</p>
