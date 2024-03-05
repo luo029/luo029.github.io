@@ -98,8 +98,8 @@
               "type": "markdown",
               "state": {
                 "file": "content/posts/正月廿五.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               }
             }
           }
