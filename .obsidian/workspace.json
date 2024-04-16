@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/三月初七1.md",
+                "file": "content/posts/三月初八.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/三月初七1.md",
+                "file": "content/posts/三月初八.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/三月初七1.md",
+                "file": "content/posts/三月初八.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/三月初七1.md"
+                "file": "content/posts/三月初八.md"
               }
             }
           }
@@ -236,7 +236,7 @@
   "active": "669b6b0a59cce1cc",
   "lastOpenFiles": [
     "content/posts/三月初七.md",
-    "content/posts/三月初七1.md",
+    "content/posts/三月初八.md",
     "content/posts/三月初六.md",
     "content/posts/三月初五.md",
     "content/posts/三月初四.md",
