@@ -1,6 +1,6 @@
 baseURL = 'https://taoyifan.cn/'
 languageCode = 'zh-cn'
-title = '修真日报'
+title = '修真报'
 theme = 'nostyleplease'
 [markup]
   [markup.goldmark]
