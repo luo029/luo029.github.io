@@ -11,12 +11,8 @@
             "id": "7cef87c571b48bd4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/240210_posts/正月十五.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/240210_posts/正月十五.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/240210_posts/正月十五.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/240210_posts/正月十五.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -148,11 +140,11 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "53f6b26ba54d9f16",
+  "active": "7cef87c571b48bd4",
   "lastOpenFiles": [
+    "content/240210_posts/正月十五.md",
     "content/posts",
     "content/240210_posts/三月十一.md",
-    "content/240210_posts/正月十五.md",
     "content/240210_posts/2024m2d10h22m2s43.md",
     "content/240210_posts/2024m2d20h22m55s4.md",
     "content/240210_posts/2024m2d16h22m19s2.md",
@@ -185,7 +177,6 @@
     "layouts/新建文件夹",
     "themes/nostyleplease/static/favicon.ico",
     "themes/nostyleplease/static",
-    "static/favicon.ico",
     "themes/nostyleplease/images/screenshot.png"
   ]
 }

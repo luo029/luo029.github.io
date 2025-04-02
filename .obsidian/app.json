@@ -11,5 +11,6 @@
   "foldHeading": true,
   "showIndentGuide": true,
   "autoConvertHtml": true,
-  "useTab": true
+  "useTab": true,
+  "promptDelete": false
 }
