@@ -1,6 +1,6 @@
 baseURL = 'https://taoyifan.cn/'
 languageCode = 'zh-cn'
-title = '修真报'
+title = '养真斋'
 theme = 'nostyleplease'
 [markup]
   [markup.goldmark]
@@ -8,10 +8,10 @@ theme = 'nostyleplease'
       hardWraps = true
 
 [params.giscus]
-        data-repo="luo029/blog_comments"
-        data-repo-id="R_kgDOLRQd5g"
+        data-repo="luo029/true_blog_comments"
+        data-repo-id="R_kgDOS5PyGg"
         data-category="Announcements"
-        data-category-id="DIC_kwDOLRQd5s4CdJ2M"
+        data-category-id="DIC_kwDOS5PyGs4C_DqG"
         data-mapping="pathname"
         data-strict="0"
         data-reactions-enabled="1"
@@ -19,6 +19,7 @@ theme = 'nostyleplease'
         data-input-position="bottom"
         data-theme="preferred_color_scheme"
         data-lang="zh-CN"
+        data-loading="lazy"
         crossorigin="anonymous"
 
 [permalinks]

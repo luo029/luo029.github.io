@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -145,12 +144,12 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "remotely-save:Remotely Save": false
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "671a0281757c1ab5",
+  "active": "7cef87c571b48bd4",
   "lastOpenFiles": [
+    "b_261ded08aec8369170f21d827ea5dc4b-removebg-preview.png",
     "themes/nostyleplease/content/posts/2020-07-09-post-example-with-headings-and-toc.md",
     "themes/nostyleplease/content/posts/2020-07-07-overview-post.md",
     "themes/nostyleplease/README.md",
@@ -178,7 +177,6 @@
     "content/240210_posts/二月十二.md",
     "content/240210_posts/五月十四.md",
     "content/240210_posts/五月十五.md",
-    "content/240210_posts/五月十三.md",
     "layouts/partials/head/custom.html",
     "layouts/partials/head/新建 文本文档.txt",
     "layouts/partials/head/新建文件夹",
