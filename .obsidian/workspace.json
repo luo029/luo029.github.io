@@ -144,11 +144,16 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "remotely-save:Remotely Save": false
     }
   },
   "active": "7cef87c571b48bd4",
   "lastOpenFiles": [
+    "resources/_gen/assets/css/main.scss_37fc2aa4e25d61f41786348db4939b94.content",
+    "resources/_gen/assets/css/main.scss_37fc2aa4e25d61f41786348db4939b94.json",
+    "public/css/main.a3146eb9f83ba87ff8701f40b936e5eec0bd7d76f3d90dba6f5d620b40830938bed5222ef95772d4c6e63a778d2fc7bde7216a9a223b66938935c36b9148597a.css",
+    "public/css/main.css.map",
     "b_261ded08aec8369170f21d827ea5dc4b-removebg-preview.png",
     "themes/nostyleplease/content/posts/2020-07-09-post-example-with-headings-and-toc.md",
     "themes/nostyleplease/content/posts/2020-07-07-overview-post.md",
@@ -183,9 +188,6 @@
     "layouts/partials/head",
     "layouts/partials/新建文件夹",
     "layouts/partials",
-    "layouts/新建文件夹",
-    "themes/nostyleplease/static/favicon.ico",
-    "themes/nostyleplease/static",
     "themes/nostyleplease/images/screenshot.png"
   ]
 }
