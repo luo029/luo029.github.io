@@ -5,7 +5,39 @@
     <link>http://localhost:1313/posts/</link>
       <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-cn</language><lastBuildDate>Mon, 15 Jun 2026 10:40:27 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-cn</language><lastBuildDate>Mon, 15 Jun 2026 10:55:11 +0800</lastBuildDate>
+    <item>
+      <title>12478981234</title>
+      <link>http://localhost:1313/12478981234/</link>
+      <pubDate>Mon, 15 Jun 2026 10:55:11 +0800</pubDate>
+      <guid>http://localhost:1313/12478981234/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>123u91024</title>
+      <link>http://localhost:1313/123u91024/</link>
+      <pubDate>Mon, 15 Jun 2026 10:55:07 +0800</pubDate>
+      <guid>http://localhost:1313/123u91024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>123123</title>
+      <link>http://localhost:1313/123123/</link>
+      <pubDate>Mon, 15 Jun 2026 10:55:04 +0800</pubDate>
+      <guid>http://localhost:1313/123123/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1234</title>
+      <link>http://localhost:1313/1234/</link>
+      <pubDate>Mon, 15 Jun 2026 10:54:04 +0800</pubDate>
+      <guid>http://localhost:1313/1234/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>123</title>
       <link>http://localhost:1313/123/</link>
