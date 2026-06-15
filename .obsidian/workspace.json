@@ -134,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 533.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,7 +147,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "7cef87c571b48bd4",
+  "active": "bc6e5c66c0691217",
   "lastOpenFiles": [
     "themes/nostyleplease/static/favicon.ico",
     "public/bitbug_favicon (.ico",
