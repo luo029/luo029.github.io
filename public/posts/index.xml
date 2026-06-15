@@ -5,6 +5,14 @@
     <link>http://localhost:1313/posts/</link>
       <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-cn</language><lastBuildDate>Sun, 01 Jan 2023 10:28:10 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-cn</language><lastBuildDate>Mon, 15 Jun 2026 10:40:27 +0800</lastBuildDate>
+    <item>
+      <title>123</title>
+      <link>http://localhost:1313/123/</link>
+      <pubDate>Mon, 15 Jun 2026 10:40:27 +0800</pubDate>
+      <guid>http://localhost:1313/123/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

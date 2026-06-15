@@ -29,7 +29,7 @@
             "name": "Untitled Template Choice",
             "type": "Template",
             "command": false,
-            "templatePath": "templates/New Post.md.md",
+            "templatePath": "templates/New Post.md",
             "fileNameFormat": {
               "enabled": true,
               "format": "{{VALUE:articleTitle}}"

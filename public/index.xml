@@ -6,5 +6,13 @@
       <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>养真斋</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-cn</language><lastBuildDate>Thu, 25 Aug 2022 21:30:04 +0800</lastBuildDate>
+    <item>
+      <title>123</title>
+      <link>http://localhost:1313/123/</link>
+      <pubDate>Mon, 15 Jun 2026 10:40:27 +0800</pubDate>
+      <guid>http://localhost:1313/123/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
