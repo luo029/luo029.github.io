@@ -80,6 +80,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "225a8a60ce10fa84",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "templates/New Post.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
             "id": "6fb94d53627b2b44",
             "type": "leaf",
             "state": {
@@ -92,18 +104,6 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "225a8a60ce10fa84",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "templates/New Post.md",
-                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -130,11 +130,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 533.5
+    "width": 533.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,7 +148,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "7cef87c571b48bd4",
+  "active": "225a8a60ce10fa84",
   "lastOpenFiles": [
     "content/posts/五月初一.md",
     "public/五月初一/index.html",
