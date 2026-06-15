@@ -134,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,10 +149,21 @@
   },
   "active": "7cef87c571b48bd4",
   "lastOpenFiles": [
-    "resources/_gen/assets/css/main.scss_37fc2aa4e25d61f41786348db4939b94.content",
-    "resources/_gen/assets/css/main.scss_37fc2aa4e25d61f41786348db4939b94.json",
-    "public/css/main.a3146eb9f83ba87ff8701f40b936e5eec0bd7d76f3d90dba6f5d620b40830938bed5222ef95772d4c6e63a778d2fc7bde7216a9a223b66938935c36b9148597a.css",
-    "public/css/main.css.map",
+    "themes/nostyleplease/static/favicon.ico",
+    "public/bitbug_favicon (.ico",
+    "themes/nostyleplease/static/bitbug_favicon (.ico",
+    "themes/nostyleplease/static/bitbug_favicon (3).ico",
+    "public/favicon (4).ico",
+    "themes/nostyleplease/static/favicon (4).ico",
+    "public/bitbug_favicon (4).ico",
+    "themes/nostyleplease/static/bitbug_favicon (4).ico",
+    "public/bitbug_favicon (3).ico",
+    "public/bitbug_favicon (2).ico",
+    "themes/nostyleplease/static/bitbug_favicon (2).ico",
+    "public/-1677330700500909528.suf.-removebg-preview.png",
+    "themes/nostyleplease/static/-1677330700500909528.suf.-removebg-preview.png",
+    "themes/nostyleplease/favicon.png",
+    "themes/nostyleplease/-1677330700500909528.suf.-removebg-preview.png",
     "b_261ded08aec8369170f21d827ea5dc4b-removebg-preview.png",
     "themes/nostyleplease/content/posts/2020-07-09-post-example-with-headings-and-toc.md",
     "themes/nostyleplease/content/posts/2020-07-07-overview-post.md",
@@ -165,7 +175,6 @@
     "themes/nostyleplease/content/_index.md",
     "templates/New Post.md.md",
     "content/240210_posts/正月十五.md",
-    "content/posts",
     "content/240210_posts/三月十一.md",
     "content/240210_posts/2024m2d10h22m2s43.md",
     "content/240210_posts/2024m2d20h22m55s4.md",
@@ -182,12 +191,6 @@
     "content/240210_posts/二月十二.md",
     "content/240210_posts/五月十四.md",
     "content/240210_posts/五月十五.md",
-    "layouts/partials/head/custom.html",
-    "layouts/partials/head/新建 文本文档.txt",
-    "layouts/partials/head/新建文件夹",
-    "layouts/partials/head",
-    "layouts/partials/新建文件夹",
-    "layouts/partials",
     "themes/nostyleplease/images/screenshot.png"
   ]
 }
