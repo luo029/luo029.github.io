@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a134a51165726913",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/五月初二.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/五月初一.md",
+                "file": "content/posts/五月初二.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/五月初一.md",
+                "file": "content/posts/五月初二.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/五月初一.md"
+                "file": "content/posts/五月初二.md"
               }
             }
           }
@@ -147,9 +160,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "f36ad7c87d92aba0",
+  "active": "a134a51165726913",
   "lastOpenFiles": [
     "content/posts/五月初一.md",
+    "content/posts/五月初二.md",
     "templates/New Post.md",
     "public/五月初一/index.html",
     "public/五月初一",
