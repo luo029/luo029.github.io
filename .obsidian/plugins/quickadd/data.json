@@ -6,6 +6,13 @@
       "type": "Macro",
       "command": false,
       "macroId": "7b00c08d-8004-436c-a78f-04b8a0d0cfcb"
+    },
+    {
+      "id": "e3d67a76-8758-4103-ac52-955d51b220e9",
+      "name": "一键上传",
+      "type": "Macro",
+      "command": false,
+      "macroId": "4caa603a-3d9c-4ef2-ad6a-535b123b5777"
     }
   ],
   "macros": [
@@ -54,6 +61,25 @@
             "fileExistsMode": "Increment the file name",
             "setFileExistsBehavior": false
           }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "github",
+      "id": "4caa603a-3d9c-4ef2-ad6a-535b123b5777",
+      "commands": [
+        {
+          "name": "Git: Commit all changes",
+          "type": "Obsidian",
+          "id": "2b3be56e-8653-44bb-873a-6bb5cd976a73",
+          "commandId": "obsidian-git:commit"
+        },
+        {
+          "name": "Git: Push",
+          "type": "Obsidian",
+          "id": "8fa0b4e7-3352-4e02-a940-4f06db87d0ce",
+          "commandId": "obsidian-git:push2"
         }
       ],
       "runOnStartup": false
