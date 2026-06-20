@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "afe404dd8a8aea9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/五月初六.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/五月初五.md",
+                "file": "content/posts/五月初六.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/五月初五.md",
+                "file": "content/posts/五月初六.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/五月初五.md"
+                "file": "content/posts/五月初六.md"
               }
             }
           }
@@ -160,25 +172,27 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "500b5afbef8edd9e",
+  "active": "afe404dd8a8aea9a",
   "lastOpenFiles": [
-    "content/posts/五月初四.md",
+    "themes/nostyleplease/assets/js/plyr-support.js",
+    "themes/nostyleplease/assets/js/新建 文本文档.txt",
+    "themes/nostyleplease/layouts/shortcodes/plyr.html",
+    "themes/nostyleplease/layouts/shortcodes/video.html",
+    "themes/nostyleplease/layouts/shortcodes/新建 文本文档.txt",
+    "themes/nostyleplease/layouts/shortcodes/新建文件夹",
+    "themes/nostyleplease/assets/css/video.css",
+    "themes/nostyleplease/assets/css/video.txt",
+    "themes/nostyleplease/assets/css/新建 文本文档.txt",
+    "public/五月初五/index.html",
+    "public/五月初五",
     "content/posts/五月初五.md",
+    "content/posts/五月初六.md",
+    "content/posts/五月初四.md",
     "content/posts/五月初一.md",
     "content/posts/五月初二.md",
     "content/posts/五月初三.md",
     "templates/New Post.md",
-    "public/五月初一/index.html",
-    "public/五月初一",
     "content/posts/12478981234.md",
-    "public/正月初四/index.html",
-    "public/正月初四",
-    "public/正月初五/index.html",
-    "public/正月初五",
-    "public/正月初六/index.html",
-    "public/正月初六",
-    "public/正月初七/index.html",
-    "public/正月初七",
     "content/posts/2024m2d15h22m29s36.md",
     "content/posts/2024m2d14h22m38s3.md",
     "content/posts/2024m2d13h22m52s55.md",
@@ -202,8 +216,6 @@
     "themes/nostyleplease/README.md",
     "themes/nostyleplease/logo.png",
     "themes/nostyleplease/content/posts/2020-07-08-very-very-very-long-title-and-very-very-very-short-content.md",
-    "themes/nostyleplease/content/posts/2020-07-06-strange-post.md",
-    "themes/nostyleplease/content/_index.md",
     "themes/nostyleplease/images/screenshot.png"
   ]
 }
