@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5417a2cd9431fe00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/五月初八.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/五月初七.md",
+                "file": "content/posts/五月初八.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/五月初七.md",
+                "file": "content/posts/五月初八.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/五月初七.md"
+                "file": "content/posts/五月初八.md"
               }
             }
           }
@@ -147,10 +160,11 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "ebc368c91bf52124",
+  "active": "5417a2cd9431fe00",
   "lastOpenFiles": [
-    "content/posts/五月初六.md",
     "content/posts/五月初七.md",
+    "content/posts/五月初八.md",
+    "content/posts/五月初六.md",
     "themes/nostyleplease/assets/js/plyr-support.js",
     "themes/nostyleplease/assets/js/新建 文本文档.txt",
     "themes/nostyleplease/layouts/shortcodes/plyr.html",
@@ -190,7 +204,6 @@
     "themes/nostyleplease/content/posts/2020-07-07-overview-post.md",
     "themes/nostyleplease/README.md",
     "themes/nostyleplease/logo.png",
-    "themes/nostyleplease/content/posts/2020-07-08-very-very-very-long-title-and-very-very-very-short-content.md",
     "themes/nostyleplease/images/screenshot.png"
   ]
 }
