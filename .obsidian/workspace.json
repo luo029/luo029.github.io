@@ -4,71 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6325f9b2c9cd247c",
+        "id": "977d5206cc1c51d8",
         "type": "tabs",
         "children": [
           {
-            "id": "ebc368c91bf52124",
+            "id": "d0919a2aed31f10e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/五月初七.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5417a2cd9431fe00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/五月初八.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db51c28e652c3e53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/五月初九.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0c98fbf234753e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/五月初十.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f081e0219085573d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/五月十一.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/五月十一.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/五月十一.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/posts/五月十一.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -196,10 +139,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "f081e0219085573d",
+  "active": "d0919a2aed31f10e",
   "lastOpenFiles": [
-    "content/posts/五月初十.md",
     "content/posts/五月十一.md",
+    "content/posts/五月初十.md",
     "content/posts/五月初九.md",
     "content/posts/五月初八.md",
     "content/posts/五月初七.md",
