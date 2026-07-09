@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/五月初四.md",
+                "file": "content/posts/五月廿六.md",
                 "mode": "preview",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/五月初四.md",
+                "file": "content/posts/五月廿六.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/五月初四.md",
+                "file": "content/posts/五月廿六.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/五月初四.md"
+                "file": "content/posts/五月廿六.md"
               }
             }
           }
@@ -162,13 +162,13 @@
   },
   "active": "0bade680f25dccbb",
   "lastOpenFiles": [
+    "content/posts/五月初四.md",
     "content/posts/五月初十.md",
     "content/posts/五月初六.md",
     "content/posts/五月初九.md",
     "content/posts/五月初八.md",
     "content/posts/五月初二.md",
     "content/posts/五月初七.md",
-    "content/posts/五月初四.md",
     "content/posts/五月十一.md",
     "content/posts/五月初一.md",
     "content/posts/五月廿六.md",
