@@ -26,8 +26,8 @@
               "type": "markdown",
               "state": {
                 "file": "content/posts/五月廿六.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               }
             }
           }
